@@ -3,7 +3,7 @@ I am Korn ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ------------------
 
 *   🌍  I'm based in Hat Yai, Songkhla
-*   ⌨️  Keychron q1 pro
+*   ⌨️  <p color="#6699ff"> Keychron q1 pro </p>
 *   🖱️  Lamzu atlantis
   
 <p align="left">
