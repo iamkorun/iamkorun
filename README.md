@@ -15,13 +15,14 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Tech Stacks
+### Tech Stacks 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-</p>
+</p> 
 
 ![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/a98c539d-6f2f-4fc1-a9ce-a78638ee2886)
+
