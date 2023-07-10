@@ -4,7 +4,6 @@ I am Korn ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 <p>⌨️ Keychron q1 pro </p> 
 <p>🖱️ Lamzu atlantis </p> 
-</br>
 
 ### Stacks
 <p align="left">
