@@ -24,6 +24,6 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 </p> 
 
-![giphy (1)](https://github.com/iamkorun/iamkorun/assets/103961592/d0da98a7-1abe-49e6-97a8-3fa5305c168e) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/a98c539d-6f2f-4fc1-a9ce-a78638ee2886)
+![giphy (1)](https://github.com/iamkorun/iamkorun/assets/103961592/d0da98a7-1abe-49e6-97a8-3fa5305c168e) &nbsp; ![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/a98c539d-6f2f-4fc1-a9ce-a78638ee2886)
 
 
