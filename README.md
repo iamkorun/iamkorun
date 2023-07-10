@@ -22,6 +22,8 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+
 </p> 
 
 ![giphy (1)](https://github.com/iamkorun/iamkorun/assets/103961592/d0da98a7-1abe-49e6-97a8-3fa5305c168e) &nbsp; ![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/a98c539d-6f2f-4fc1-a9ce-a78638ee2886)
