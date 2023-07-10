@@ -2,7 +2,7 @@ I am Korn ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ===============================================================================================================================================
 ------------------
 
-<p style="background-color:blue;">⌨️ Keychron q1 pro </p>
+<p style="color:blue;">⌨️ Keychron q1 pro </p>
 🖱️  Lamzu atlantis
   
 <p align="left">
