@@ -3,7 +3,8 @@ I am Korn ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ------------------
 
 <p>🖱️ Lamzu atlantis </p> 
-<p>⌨️ Keychron q1 pro </p> 
+<p>⌨️ Keychron q1 pro </p>  
+
 
 ### Stacks
 <p align="left">
