@@ -17,7 +17,7 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 
 ### Tech Stacks 
 
-![Nodejs](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
