@@ -1,6 +1,9 @@
-![github-header-image](https://github.com/iamkorun/iamkorun/assets/103961592/fcf0e8ba-2371-46d6-9d6f-c3c8e71a5b48)
+![banner](https://github.com/iamkorun/iamkorun/assets/103961592/8b311618-1192-4bbd-9dac-4b800bac98c8)
 
 ### Accessories
+
+
+
 
 <p>🖱️ Lamzu Atlantis </p> 
 <p>⌨️ Keychron Q1 Pro </p>  
