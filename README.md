@@ -1,9 +1,4 @@
-Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-===============================================================================================================================================
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%068FFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Platform+Developer;"></a>
-</p>
+![github-header-image](https://github.com/iamkorun/iamkorun/assets/103961592/fcf0e8ba-2371-46d6-9d6f-c3c8e71a5b48)
 
 ### Accessories
 
