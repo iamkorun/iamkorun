@@ -13,16 +13,29 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
-### Tech Stacks 
+### Tech Stacks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
-![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
+<br>
+<br>
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![ipfs](https://img.shields.io/badge/-Ipfs-000?&logo=ipfs)
+![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
+
+### OS
+
+![windows11](https://img.shields.io/badge/-Windows-000?&logo=windows11)
+![kalilinux](https://img.shields.io/badge/-Kalilinux-000?&logo=kalilinux)
 
 </p> 
 
