@@ -7,8 +7,8 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 
 
 <p align="center">
-<p>🖱️ Lamzu atlantis </p> 
-<p>⌨️ Keychron q1 pro </p>  
+<p>🖱️ Lamzu Atlantis </p> 
+<p>⌨️ Keychron Q1 Pro </p>  
 
 ### Languages
   
