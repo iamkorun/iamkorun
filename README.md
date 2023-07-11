@@ -28,9 +28,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
+<br>
+<br>
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
-<br>
-<br>
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![ipfs](https://img.shields.io/badge/-Ipfs-000?&logo=ipfs)
@@ -39,6 +39,7 @@
 
 <p align="left">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252446253-d0da98a7-1abe-49e6-97a8-3fa5305c168e.gif" alt="giphy">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252755547-ff306017-ea0d-4ef3-bd31-ef422c9fd409.gif" alt="giphy2">
 </p>
 
 
