@@ -11,7 +11,7 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 <p>⌨️ Keychron Q1 Pro </p>  
 
 ### Languages
-  
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
