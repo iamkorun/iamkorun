@@ -1,4 +1,4 @@
-![banner](https://github.com/iamkorun/iamkorun/assets/103961592/8b311618-1192-4bbd-9dac-4b800bac98c8)
+![banner](https://github.com/iamkorun/iamkorun/assets/103961592/5563e07f-766c-4f07-81cd-d9ca47079a39)
 
 ### Accessories
 
