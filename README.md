@@ -2,24 +2,31 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252750951-5563e07f-766c-4f07-81cd-d9ca47079a39.gif" alt="banner">
 </p>
 
-### Accessories
+-----
+### 💖 Accessories
+==========
+<p>🖱️ Lamzu Atlantis </p>
+<p>⌨️ Keychron Q1 Pro </p>
 
-<p>🖱️ Lamzu Atlantis </p> 
-<p>⌨️ Keychron Q1 Pro </p>  
-
-### Languages
+-----
+### 🗒️ Languages
+==========
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
-### OS
+-----
+### 🖥️ OS
+==========
 
 ![windows11](https://img.shields.io/badge/-Windows-000?&logo=windows11)
 ![kalilinux](https://img.shields.io/badge/-Kalilinux-000?&logo=kalilinux)
 
-### Tech Stacks
+-----
+### ✨ Tech Stacks
+==========
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
