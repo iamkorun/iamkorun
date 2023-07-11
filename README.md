@@ -1,4 +1,7 @@
-![banner](https://github.com/iamkorun/iamkorun/assets/103961592/5563e07f-766c-4f07-81cd-d9ca47079a39)
+<p align="center">
+  <img src="https://github.com/iamkorun/iamkorun/blob/main/assets/103961592/5563e07f-766c-4f07-81cd-d9ca47079a39.gif" alt="banner">
+</p>
+
 
 ### Accessories
 
