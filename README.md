@@ -44,9 +44,8 @@
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
 
-<p align="left">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252446253-d0da98a7-1abe-49e6-97a8-3fa5305c168e.gif" alt="giphy">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252755547-ff306017-ea0d-4ef3-bd31-ef422c9fd409.gif" alt="giphy2">
-</p>
+![giphy (1)](https://github.com/iamkorun/iamkorun/assets/103961592/8e172e9f-42c0-4e4c-b253-465c0d01574a)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/248c7017-26ce-4754-9928-252425ef6814)
 
 
