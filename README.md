@@ -13,8 +13,8 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
 ### OS
@@ -26,16 +26,19 @@ Hi there, I'm Korn ![](https://user-images.githubusercontent.com/18350557/176309
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
+![postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
 <br>
 <br>
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![ipfs](https://img.shields.io/badge/-Ipfs-000?&logo=ipfs)
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
+![react](https://img.shields.io/badge/-React-000?&logo=react)
 
 
 
