@@ -4,9 +4,6 @@
 
 ### Accessories
 
-
-
-
 <p>🖱️ Lamzu Atlantis </p> 
 <p>⌨️ Keychron Q1 Pro </p>  
 
@@ -40,8 +37,8 @@
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
 
-
-
-![giphy (1)](https://github.com/iamkorun/iamkorun/assets/103961592/d0da98a7-1abe-49e6-97a8-3fa5305c168e) &nbsp; ![giphy](https://github.com/iamkorun/iamkorun/assets/103961592/a98c539d-6f2f-4fc1-a9ce-a78638ee2886)
+<p align="left">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252446253-d0da98a7-1abe-49e6-97a8-3fa5305c168e.gif" alt="giphy">
+</p>
 
 
