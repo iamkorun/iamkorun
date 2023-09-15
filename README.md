@@ -3,12 +3,6 @@
 </p>
 
 -----
-### 💖 Accessories
-==========
-<p>🖱️ Lamzu Atlantis </p>
-<p>⌨️ Keychron Q1 Pro </p>
-
------
 ### 🗒️ Languages
 ==========
 
