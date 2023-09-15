@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252750951-5563e07f-766c-4f07-81cd-d9ca47079a39.gif" alt="banner">
+  <img src="https://media.tenor.com/_VbCfZuqmA0AAAAC/anime-kimi-no-na-wa.gif" alt="banner" width="500" height="400">
 </p>
 
 
