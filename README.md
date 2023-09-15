@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/_VbCfZuqmA0AAAAC/anime-kimi-no-na-wa.gif" alt="banner" width="800" height="400">
+  <img src="https://media.tenor.com/Oanot816vugAAAAC/your-name-kimi-no-na-wa.gif" alt="gif" width="800" height="400">
 </p>
 
 
