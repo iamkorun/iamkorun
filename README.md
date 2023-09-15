@@ -1,5 +1,6 @@
-<img src="https://media.tenor.com/d3aqVkS4LiQAAAAd/that-time-i-got-reincarnated-as-a-slime-reincarnated-as-a-slime.gif" style="width:100%;height:500px;object-fit:cover;"/>
-
+<p align="center">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103961592/252750951-5563e07f-766c-4f07-81cd-d9ca47079a39.gif" alt="banner">
+</p>
 -----
 ### 🗒️ Languages
 ==========
