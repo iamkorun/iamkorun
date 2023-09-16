@@ -5,7 +5,6 @@
 
 -----
 ### 🗒️ Languages
-==========
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -15,14 +14,12 @@
 
 -----
 ### 🖥️ OS
-==========
 
 ![windows11](https://img.shields.io/badge/-Windows-000?&logo=windows11)
 ![kalilinux](https://img.shields.io/badge/-Kalilinux-000?&logo=kalilinux)
 
 -----
 ### ✨ Tech Stacks
-==========
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
