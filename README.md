@@ -12,11 +12,6 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)
 
------
-### 🖥️ OS
-
-![windows11](https://img.shields.io/badge/-Windows-000?&logo=windows11)
-![kalilinux](https://img.shields.io/badge/-Kalilinux-000?&logo=kalilinux)
 
 -----
 ### ✨ Tech Stacks
@@ -37,3 +32,8 @@
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
 
+-----
+### 🖥️ OS
+
+![windows11](https://img.shields.io/badge/-Windows-000?&logo=windows11)
+![kalilinux](https://img.shields.io/badge/-Kalilinux-000?&logo=kalilinux)
