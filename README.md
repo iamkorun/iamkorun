@@ -21,12 +21,12 @@
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
-![Vuejs](https://img.shields.io/badge/-Vuejs-000?&logo=Vue.js)
-![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
+![Vuejs](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
+![Nuxtjs](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
 <br>
 <br>
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
-![nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
+![nextjs](https://img.shields.io/badge/-Next-000?&logo=Next.js)
 ![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
