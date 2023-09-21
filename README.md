@@ -31,6 +31,7 @@
 ![ipfs](https://img.shields.io/badge/-Ipfs-000?&logo=ipfs)
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
+![nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
 
 -----
 ### 🖥️ OS
