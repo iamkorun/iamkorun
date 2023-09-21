@@ -19,19 +19,20 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-000?&logo=node.js)
 ![Postgres](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 ![postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
-![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![Vuejs](https://img.shields.io/badge/-Vuejs-000?&logo=Vue.js)
 ![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-000?&logo=Nuxt.js)
 <br>
 <br>
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-000?&logo=tailwindcss)
+![react](https://img.shields.io/badge/-React-000?&logo=react)
+![nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
+![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
 ![ipfs](https://img.shields.io/badge/-Ipfs-000?&logo=ipfs)
 ![ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
-![react](https://img.shields.io/badge/-React-000?&logo=react)
-![nextjs](https://img.shields.io/badge/-Nextjs-000?&logo=Next.js)
 
 -----
 ### 🖥️ OS
