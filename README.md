@@ -28,7 +28,7 @@
 ![react](https://img.shields.io/badge/-React-000?&logo=react)
 ![nextjs](https://img.shields.io/badge/-Next-000?&logo=Next.js)
 ![GoogleCloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
-![K8s](https://img.shields.io/badge/-Kubenetes-000?&logo=kubenetes)
+![K8s](https://img.shields.io/badge/-K8s-000?&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb)
