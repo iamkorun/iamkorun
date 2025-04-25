@@ -107,7 +107,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=iamkorun&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+ [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
 
 ###
