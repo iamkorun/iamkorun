@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🧑‍💻 About Me</h3>
 
 ###
@@ -15,6 +17,8 @@
 <p align="left">Full-stack? Nah, I’m stack-proof 🛡️💾⚙️</p>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -104,13 +108,13 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   
-![](https://nirzak-streak-stats.vercel.app/?user=iamkorun&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iamkorun&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)
 
 </div>
+
+<br clear="both">
 
 ###
 
