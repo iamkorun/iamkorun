@@ -107,7 +107,9 @@
 <br clear="both">
 
 <div align="center">
- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)](https://git.io/streak-stats)
+  
+![](https://nirzak-streak-stats.vercel.app/?user=iamkorun&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)<br/>
+
 </div>
 
 ###
