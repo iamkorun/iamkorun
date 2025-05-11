@@ -130,6 +130,6 @@
 
 ###
 
-<p align="center">Oops? Nah. Agile.</p>
+<p align="center">Oops? Agile.</p>
 
 ###
