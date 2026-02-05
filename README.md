@@ -15,7 +15,3 @@
 ###
 
 <p align="left">Full-stack? Nah, I’m stack-proof 🛡️💾⚙️</p>
-
-##
-
-###
