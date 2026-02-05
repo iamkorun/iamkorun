@@ -19,9 +19,3 @@
 ##
 
 ###
-
-<div align="center">
-  
-![](https://nirzak-streak-stats.vercel.app/?user=iamkorun&theme=transparent&exclude_days=Sun%2CSat&hide_current_streak=true)
-
-</div>
