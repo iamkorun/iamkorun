@@ -9,9 +9,3 @@
 ###
 
 <br clear="both">
-
-<h3 align="left">🧑‍💻 About Me</h3>
-
-###
-
-<p align="left">Full-stack? Nah, I’m stack-proof 🛡️💾⚙️</p>
