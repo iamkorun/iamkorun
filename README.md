@@ -1,5 +1,3 @@
-<h1 align="center">Hey there 👋 Call me Korn</h1>
-
 ###
 
 <div align="center">
